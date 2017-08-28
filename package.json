@@ -1,0 +1,24 @@
+{
+  "name": "gitbook-plugin-arbor",
+  "version": "0.0.1",
+  "description": "Arbor JS plugin for gitbook",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raghuteja/gitbook-plugin-arbor.git"
+  },
+  "keywords": [
+    "gitbook",
+    "arbor",
+    "graph"
+  ],
+  "author": "Raghu Teja",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/raghuteja/gitbook-plugin-arbor/issues"
+  },
+  "homepage": "https://github.com/raghuteja/gitbook-plugin-arbor#readme"
+}
