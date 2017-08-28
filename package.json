@@ -1,6 +1,9 @@
 {
   "name": "gitbook-plugin-arbor",
-  "version": "0.0.1",
+  "version": "0.0.2",
+  "engines": {
+    "gitbook": ">3.0.0"
+  },
   "description": "Arbor JS plugin for gitbook",
   "main": "index.js",
   "scripts": {
