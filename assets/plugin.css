@@ -1,0 +1,7 @@
+#viewport{
+  min-height: 350px;
+}
+
+#viewport.linkable{
+  cursor: pointer;
+}
