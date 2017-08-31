@@ -22,7 +22,7 @@ var Renderer = function(elt, params){
       ratio = devicePixelRatio/backingStoreRatio
       sys = pSystem
       sys.screen({size:{width:dom.width(), height:dom.height()},
-                  padding:[36,60,36,60]})
+                  padding: additionalParams.padding})
 
       $(window).resize(that.resize)
       that.resize()
