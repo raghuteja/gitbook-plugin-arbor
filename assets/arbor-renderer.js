@@ -75,11 +75,11 @@ var Renderer = function(elt, params){
           if (nearest.node.data.link){
             selected = (nearest.distance < 50) ? nearest : null
             if (selected){
-               dom.addClass('linkable')
+               dom.addClass('arbor-linkable')
                window.status = selected.node.data.link.replace(/^\//,"http://"+window.location.host+"/").replace(/^#/,'')
             }
             else{
-               dom.removeClass('linkable')
+               dom.removeClass('arbor-linkable')
                window.status = ''
             }
           }
