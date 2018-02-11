@@ -1,6 +1,6 @@
 {
   "name": "gitbook-plugin-arbor",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "engines": {
     "gitbook": ">3.0.0"
   },
@@ -11,17 +11,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/raghuteja/gitbook-plugin-arbor.git"
+    "url": "git+https://github.com/tedict/gitbook-plugin-arbor.git"
   },
   "keywords": [
     "gitbook",
     "arbor",
     "graph"
   ],
-  "author": "Raghu Teja",
+  "author": "Technical Addict",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/raghuteja/gitbook-plugin-arbor/issues"
+    "url": "https://github.com/tedict/gitbook-plugin-arbor/issues"
   },
-  "homepage": "https://github.com/raghuteja/gitbook-plugin-arbor#readme"
+  "homepage": "https://github.com/tedict/gitbook-plugin-arbor#readme"
 }
